@@ -1,9 +1,17 @@
 # ![Hogwarts Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a472a,50:740001,100:eeba30&height=240&section=header&text=&fontSize=0&animation=fadeIn)
 
 <div align="center">
-  <!-- Upload your Sorting Hat image to your repo's /assets folder or use an image hosting service -->
-  <!-- Replace the URL below with your actual image URL -->
-  <img src="./assets/sorting-hat.png" alt="Sorting Hat" width="850" style="border-radius: 10px; margin-bottom: 20px;">
+  <!-- Option 1: Upload the image to your repo's /assets folder -->
+  <!-- Option 2: Use an image hosting service like imgur, imgbb, or cloudinary -->
+  <!-- Option 3: Use the image URL from ArtStation if you can find the direct link -->
+  
+  <!-- For now, using a placeholder - replace with your actual hosted image URL -->
+  <img src="https://i.imgur.com/YOUR_IMAGE_ID.png" alt="Sorting Hat" width="850" style="border-radius: 10px; margin-bottom: 20px;">
+  
+  <!-- Alternative: If you want to link to the ArtStation page while showing a different image -->
+  <!-- <a href="https://www.artstation.com/artwork/xzKd51">
+    <img src="YOUR_HOSTED_IMAGE_URL" alt="Sorting Hat by [Artist Name]" width="850" style="border-radius: 10px; margin-bottom: 20px;">
+  </a> -->
   
   <!-- Magical ASCII Art -->
   <pre style="color: #eeba30;">
