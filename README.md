@@ -1,20 +1,22 @@
 # ![Hogwarts Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a472a,50:740001,100:eeba30&height=240&section=header&text=&fontSize=0&animation=fadeIn)
 
 <div align="center">
-  <!-- Option 1: Upload the image to your repo's /assets folder -->
-  <!-- Option 2: Use an image hosting service like imgur, imgbb, or cloudinary -->
-  <!-- Option 3: Use the image URL from ArtStation if you can find the direct link -->
+  <img src="https://cdna.artstation.com/p/assets/images/images/019/074/696/large/blake-johnson-sorting-hat-1.jpg?1561918990" 
+       alt="Sorting Hat" 
+       width="850" 
+       style="border-radius: 10px; margin-bottom: 20px;">
   
-  <!-- For now, using a placeholder - replace with your actual hosted image URL -->
-  <img src="https://i.imgur.com/YOUR_IMAGE_ID.png" alt="Sorting Hat" width="850" style="border-radius: 10px; margin-bottom: 20px;">
-  
-  <!-- Alternative: If you want to link to the ArtStation page while showing a different image -->
+  <!-- Alternative: If you want to link to the ArtStation page while showing the image -->
   <!-- <a href="https://www.artstation.com/artwork/xzKd51">
-    <img src="YOUR_HOSTED_IMAGE_URL" alt="Sorting Hat by [Artist Name]" width="850" style="border-radius: 10px; margin-bottom: 20px;">
+    <img src="https://cdna.artstation.com/p/assets/images/images/019/074/696/large/blake-johnson-sorting-hat-1.jpg?1561918990" 
+         alt="Sorting Hat by Blake Johnson" 
+         width="850" 
+         style="border-radius: 10px; margin-bottom: 20px;">
   </a> -->
   
   <!-- Magical ASCII Art -->
   <pre style="color: #eeba30;">
+
   ════════════════════════════════════════════════════
       ⚡ F A Y C A L   Z O U I N E ⚡
       The Data Wizard of Marketing Analytics
