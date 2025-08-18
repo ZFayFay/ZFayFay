@@ -70,7 +70,7 @@
 class DataWizard:
     def __init__(self):
         self.name = "Faycal Zouine"
-        self.house = "Ravenclaw"  # Where wit beyond measure is man's greatest treasure
+        self.house = "Ravenclaw" 
         self.current_position = "Machine Learning Engineer @ Adobe"
         self.years_of_magic = 8
         self.wand = "MBA in Finance, Python core, remarkably flexible"
@@ -83,7 +83,7 @@ class DataWizard:
                 "Incrementality Testing"
             ],
             "defensive_spells": [
-                "A/B Testing (500+ experiments)",
+                "A/B Testing ",
                 "Statistical Significance Charms",
                 "Bias Detection Hexes"
             ],
