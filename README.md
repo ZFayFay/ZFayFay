@@ -152,15 +152,17 @@ class DataWizard:
 
 ---
 
-## 🔮 The Dark Arts of Marketing Science
+## ​ The Dark Arts of Marketing Science
 
 <div align="center">
-  <img src="https://media.giphy.com/media/12NUbkX6p4xOO4/giphy.gif" width="600" style="border-radius: 8px; margin-bottom: 20px;">
+  <img 
+    src="https://64.media.tumblr.com/cdabe01c9fe8feaee497eaac63a3e1d3/4dbed4fb3672bf22-90/s540x810/9b23d7b21f528404731bfa7247e1445ae73c1865.gif"
+    alt="Mystical Dark Arts Gif"
+    width="600"
+    style="border-radius: 8px; margin-bottom: 20px;"
+  />
 </div>
 
-<table style="background: linear-gradient(135deg, #1a472a, #740001); border-radius: 10px; color: white;">
-<tr>
-<td width="50%" style="padding: 20px;">
 
 ### 📊 Marketing Mix Modeling Spellcraft
 ```python
