@@ -8,14 +8,6 @@
        width="850" 
        style="border-radius: 10px; margin-bottom: 20px;">
   
-  <!-- Alternative: If you want to link to the ArtStation page while showing the image -->
-  <!-- <a href="https://www.artstation.com/artwork/xzKd51">
-    <img src="https://cdna.artstation.com/p/assets/images/images/019/074/696/large/blake-johnson-sorting-hat-1.jpg?1561918990" 
-         alt="Sorting Hat by Blake Johnson" 
-         width="850" 
-         style="border-radius: 10px; margin-bottom: 20px;">
-  </a> -->
-  
   <!-- Magical ASCII Art -->
   <pre style="color: #eeba30;">
 
@@ -154,6 +146,39 @@ class DataWizard:
 
 ---
 
+## 📜 O.W.L.s and N.E.W.T.s - Academic Achievements
+
+<div align="center">
+  <img src="https://static.wikia.nocookie.net/harrypotter/images/5/5f/Educational_Decrees.png/revision/latest?cb=20141123085416" width="500" style="border-radius: 8px; margin-bottom: 20px;">
+  
+  ### ✨ Magical Qualifications from the Ministry of Education ✨
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="33%" style="background: linear-gradient(135deg, #1a472a, #2a623d); border-radius: 10px; padding: 15px;">
+  <h4 style="color: #eeba30;">🎓 Ancient Runes</h4>
+  <p style="color: #ffd700;"><b>MBA in Finance</b></p>
+  <p style="color: #fff;">University Name</p>
+  <img src="https://img.shields.io/badge/Outstanding-NEWT_Level-eeba30?style=flat&labelColor=2a2a2a">
+</td>
+<td align="center" width="33%" style="background: linear-gradient(135deg, #222f5b, #2c5aa0); border-radius: 10px; padding: 15px;">
+  <h4 style="color: #eeba30;">📊 Arithmancy</h4>
+  <p style="color: #ffd700;"><b>Bachelor's Degree</b></p>
+  <p style="color: #fff;">Your University</p>
+  <img src="https://img.shields.io/badge/Exceeds_Expectations-OWL-2c5aa0?style=flat&labelColor=2a2a2a">
+</td>
+<td align="center" width="33%" style="background: linear-gradient(135deg, #740001, #ae0001); border-radius: 10px; padding: 15px;">
+  <h4 style="color: #eeba30;">🧪 Advanced Studies</h4>
+  <p style="color: #ffd700;"><b>Your Specialization</b></p>
+  <p style="color: #fff;">Institution</p>
+  <img src="https://img.shields.io/badge/Outstanding-NEWT_Level-740001?style=flat&labelColor=2a2a2a">
+</td>
+</tr>
+</table>
+
+---
+
 ## ​ The Dark Arts of Marketing Science
 
 <div align="center">
@@ -165,6 +190,9 @@ class DataWizard:
   />
 </div>
 
+<table>
+<tr>
+<td width="50%" style="padding: 20px;">
 
 ### 📊 Marketing Mix Modeling Spellcraft
 ```python
@@ -378,6 +406,7 @@ class CurrentQuests:
 
 ### Where I'd Love to Practice My Craft
 
+<img src="https://img.shields.io/badge/Disney-0e6ba8?style=for-the-badge&logo=disney&logoColor=white&labelColor=2a2a2a" />
 <img src="https://img.shields.io/badge/Pinterest-740001?style=for-the-badge&logo=pinterest&logoColor=white&labelColor=2a2a2a" />
 <img src="https://img.shields.io/badge/Meta-2c5aa0?style=for-the-badge&logo=meta&logoColor=white&labelColor=222f5b" />
 <img src="https://img.shields.io/badge/Airbnb-1a472a?style=for-the-badge&logo=airbnb&logoColor=white&labelColor=2a623d" />
@@ -415,6 +444,138 @@ class CurrentQuests:
           solve_with_magic()
   ```
   
+</div>
+
+---
+
+## 🎓 The Restricted Section - Coursera Spell Mastery
+
+<div align="center">
+  <img src="https://media.giphy.com/media/AKJj8IF06zVC8/giphy.gif" width="400" style="border-radius: 10px; margin-bottom: 20px;">
+  
+  <h3>📚 Ancient Tomes from the Coursera Archives 📚</h3>
+  <p style="color: #eeba30; font-style: italic;">
+    "These books contain powerful spells... Handle with care!"<br>
+    — Madam Pince, Hogwarts Librarian
+  </p>
+</div>
+
+<div align="center">
+  
+  <!-- Coursera Certificates Grid -->
+  <table align="center" style="margin: 20px auto;">
+    <tr>
+      <td align="center" width="250" style="padding: 10px;">
+        <div style="background: linear-gradient(135deg, #740001, #ae0001); padding: 15px; border-radius: 10px; height: 280px;">
+          <img src="https://img.shields.io/badge/🏆_Mastered-2024-eeba30?style=flat&labelColor=2a2a2a" /><br><br>
+          <h4 style="color: #eeba30;">⚗️ Machine Learning</h4>
+          <p style="color: #ffd700; font-size: 12px;">by Andrew Ng</p>
+          <hr style="border-color: #eeba30; opacity: 0.3;">
+          <p style="color: #fff; font-size: 11px;">Stanford University</p>
+          <br>
+          <a href="YOUR_CERTIFICATE_LINK">
+            <img src="https://img.shields.io/badge/View_Certificate-eeba30?style=for-the-badge&labelColor=2a2a2a" />
+          </a>
+        </div>
+      </td>
+      <td align="center" width="250" style="padding: 10px;">
+        <div style="background: linear-gradient(135deg, #222f5b, #2c5aa0); padding: 15px; border-radius: 10px; height: 280px;">
+          <img src="https://img.shields.io/badge/🏆_Mastered-2024-eeba30?style=flat&labelColor=2a2a2a" /><br><br>
+          <h4 style="color: #eeba30;">🧠 Deep Learning</h4>
+          <p style="color: #ffd700; font-size: 12px;">Specialization</p>
+          <hr style="border-color: #eeba30; opacity: 0.3;">
+          <p style="color: #fff; font-size: 11px;">deeplearning.ai</p>
+          <br>
+          <a href="YOUR_CERTIFICATE_LINK">
+            <img src="https://img.shields.io/badge/View_Certificate-2c5aa0?style=for-the-badge&labelColor=2a2a2a" />
+          </a>
+        </div>
+      </td>
+      <td align="center" width="250" style="padding: 10px;">
+        <div style="background: linear-gradient(135deg, #1a472a, #2a623d); padding: 15px; border-radius: 10px; height: 280px;">
+          <img src="https://img.shields.io/badge/🏆_Mastered-2024-eeba30?style=flat&labelColor=2a2a2a" /><br><br>
+          <h4 style="color: #eeba30;">📊 Data Science</h4>
+          <p style="color: #ffd700; font-size: 12px;">Professional Certificate</p>
+          <hr style="border-color: #eeba30; opacity: 0.3;">
+          <p style="color: #fff; font-size: 11px;">IBM</p>
+          <br>
+          <a href="YOUR_CERTIFICATE_LINK">
+            <img src="https://img.shields.io/badge/View_Certificate-1a472a?style=for-the-badge&labelColor=2a2a2a" />
+          </a>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="250" style="padding: 10px;">
+        <div style="background: linear-gradient(135deg, #946b2d, #eeba30); padding: 15px; border-radius: 10px; height: 280px;">
+          <img src="https://img.shields.io/badge/🏆_Mastered-2023-2a2a2a?style=flat&labelColor=eeba30" /><br><br>
+          <h4 style="color: #2a2a2a;">🔮 Marketing Analytics</h4>
+          <p style="color: #2a2a2a; font-size: 12px;">Specialization</p>
+          <hr style="border-color: #2a2a2a; opacity: 0.3;">
+          <p style="color: #2a2a2a; font-size: 11px;">Wharton</p>
+          <br>
+          <a href="YOUR_CERTIFICATE_LINK">
+            <img src="https://img.shields.io/badge/View_Certificate-946b2d?style=for-the-badge&labelColor=2a2a2a" />
+          </a>
+        </div>
+      </td>
+      <td align="center" width="250" style="padding: 10px;">
+        <div style="background: linear-gradient(135deg, #5d5d5d, #aaaaaa); padding: 15px; border-radius: 10px; height: 280px;">
+          <img src="https://img.shields.io/badge/🏆_Mastered-2023-eeba30?style=flat&labelColor=2a2a2a" /><br><br>
+          <h4 style="color: #eeba30;">💻 Google Cloud</h4>
+          <p style="color: #ffd700; font-size: 12px;">Professional ML Engineer</p>
+          <hr style="border-color: #eeba30; opacity: 0.3;">
+          <p style="color: #fff; font-size: 11px;">Google Cloud</p>
+          <br>
+          <a href="YOUR_CERTIFICATE_LINK">
+            <img src="https://img.shields.io/badge/View_Certificate-5d5d5d?style=for-the-badge&labelColor=2a2a2a" />
+          </a>
+        </div>
+      </td>
+      <td align="center" width="250" style="padding: 10px;">
+        <div style="background: linear-gradient(135deg, #740001, #ae0001); padding: 15px; border-radius: 10px; height: 280px;">
+          <img src="https://img.shields.io/badge/🏆_Mastered-2023-eeba30?style=flat&labelColor=2a2a2a" /><br><br>
+          <h4 style="color: #eeba30;">🎯 A/B Testing</h4>
+          <p style="color: #ffd700; font-size: 12px;">for Business Analysts</p>
+          <hr style="border-color: #eeba30; opacity: 0.3;">
+          <p style="color: #fff; font-size: 11px;">UC Davis</p>
+          <br>
+          <a href="YOUR_CERTIFICATE_LINK">
+            <img src="https://img.shields.io/badge/View_Certificate-740001?style=for-the-badge&labelColor=2a2a2a" />
+          </a>
+        </div>
+      </td>
+    </tr>
+  </table>
+
+  <!-- Summary Stats -->
+  <div style="margin-top: 30px;">
+    <img src="https://img.shields.io/badge/📚_Total_Spells_Learned-15+-eeba30?style=for-the-badge&labelColor=2a2a2a" />
+    <img src="https://img.shields.io/badge/⏰_Study_Hours-500+-740001?style=for-the-badge&labelColor=2a2a2a" />
+    <img src="https://img.shields.io/badge/🎓_Completion_Rate-100%25-1a472a?style=for-the-badge&labelColor=2a2a2a" />
+    <img src="https://img.shields.io/badge/⭐_Average_Grade-Outstanding-2c5aa0?style=for-the-badge&labelColor=2a2a2a" />
+  </div>
+
+  <!-- Add more certificates instructions -->
+  <details>
+    <summary><b>📜 How to Add Your Magical Certificates</b></summary>
+    <br>
+    <p align="left">
+    
+    ```markdown
+    <!-- Replace the following in each certificate box: -->
+    1. Certificate Name (e.g., "Machine Learning")
+    2. Instructor/Specialization (e.g., "by Andrew Ng")
+    3. Institution (e.g., "Stanford University")
+    4. YOUR_CERTIFICATE_LINK with your actual Coursera certificate URL
+    5. Year completed in the badge (e.g., "2024")
+    
+    <!-- To add more certificates, copy a <td> block and modify -->
+    ```
+    
+    </p>
+  </details>
+
 </div>
 
 ---
