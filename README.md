@@ -412,6 +412,8 @@ class CurrentQuests:
 <img src="https://img.shields.io/badge/Airbnb-1a472a?style=for-the-badge&logo=airbnb&logoColor=white&labelColor=2a623d" />
 <img src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white&labelColor=2a2a2a" />
 <img src="https://img.shields.io/badge/Figma-eeba30?style=for-the-badge&logo=figma&logoColor=2a2a2a&labelColor=946b2d" />
+<img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=2a2a2a" />
+
 
 </div>
 
