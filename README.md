@@ -24,6 +24,12 @@ I specialize in **applied machine learning for measurement and causal inference*
 
 | Project | Description |
 |---------|-------------|
+| [**streamlit-experimentation-platform**](https://github.com/ZFayFay/streamlit-experimentation-platform) | Interactive A/B testing analysis platform with frequentist, Bayesian, CUPED, and HTE methods. [Live Demo →](https://app-experimentation-platform-p4mcqhkrtw5q3f72yr2wrw.streamlit.app/) |
+| [**kaggle-notebooks**](https://github.com/ZFayFay/kaggle-notebooks) | Original Kaggle analyses: search methods for coding agents (Gemma 4), drift and signal checks on generated fraud data (S6E11) |
+| [**Evolution of Movie Recommendation Systems**](https://github.com/ZFayFay/Are-You-Coming-to-the-Tree-The-Evolution-of-Movie-Recommendation-Systems) | From popularity baselines to collaborative filtering and beyond, on movie ratings data |
+| [**Deep Learning for Crypto Trading**](https://github.com/ZFayFay/Deep-Learning-for-Crypto-Trading) | Sequence models for price-movement prediction |
+
+---------|-------------|
 | [**experimentation-platform**](https://github.com/ZFayFay/experimentation-platform) | Interactive A/B testing analysis platform with frequentist, Bayesian, CUPED, and HTE methods. [Live Demo →](https://app-experimentation-platform-p4mcqhkrtw5q3f72yr2wrw.streamlit.app/) |
 | [**bayesian-mmm**](https://github.com/ZFayFay/bayesian-mmm) | Production-ready Bayesian Marketing Mix Modeling framework with hierarchical priors and budget optimization |
 | [**causal-inference-toolkit**](https://github.com/ZFayFay/causal-inference-toolkit) | Implementations of geo-experiments, synthetic control, and diff-in-diff with practical guidance |
