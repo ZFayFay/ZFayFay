@@ -31,6 +31,15 @@ I specialize in **applied machine learning for measurement and causal inference*
 
 ---
 
+## Kaggle
+
+Original analysis notebooks, code in [kaggle-notebooks](https://github.com/ZFayFay/kaggle-notebooks) · [Kaggle profile](https://www.kaggle.com/zfayfay)
+
+- [Where is the bug? File-finding methods compared](https://www.kaggle.com/code/zfayfay/where-is-the-bug-file-finding-methods-compared) — how coding agents should search a repo (Gemma 4 Developer Agent)
+- [Synthetic vs original: does it help?](https://www.kaggle.com/code/zfayfay/s6e11-synthetic-vs-original-does-it-help) — drift and signal checks for generated fraud data (Playground S6E11)
+
+---
+
 ## Writing
 
 I write about measurement, experimentation, and applied ML:
