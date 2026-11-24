@@ -24,10 +24,10 @@ Same lesson three times. The easy number is usually wrong. The useful part is sa
 
 Same idea, harder rules. Before running anything I write down what should happen and how I'll judge it, and commit it. Then I report what passed and what didn't.
 
-- **Google GeoX (geo experiments).** On ten years of real Iowa sales, the estimates were right but the error bars were too narrow. [Code](https://github.com/ZFayFay/geox-replication)
-- **Spotify on Bayesian A/B tests.** Their math held up, even on a skewed real metric. Novelty effects are where early stopping goes wrong. [Code](https://github.com/ZFayFay/spotify-bayes-replication)
-- **Airbnb interleaving.** "50x faster" failed my test. The speedup depends on how similar the two rankers are. [Code](https://github.com/ZFayFay/airbnb-interleaving-replication)
-- **Meta semantic IDs.** On new items, a plain content embedding beat them. [Code](https://github.com/ZFayFay/meta-semantic-ids-replication)
+- **Google GeoX (geo experiments).** On ten years of real Iowa sales, the estimates were right but the error bars were too narrow. [Code](https://github.com/ZFayFay/geox-replication) · [Post](https://medium.com/@faycal.zouine.usa/i-fed-googles-geo-testing-tool-fake-experiments-it-found-a-lift-four-times-too-often-ebd08d2ff40a)
+- **Spotify on Bayesian A/B tests.** Their math held up, even on a skewed real metric. Novelty effects are where early stopping goes wrong. [Code](https://github.com/ZFayFay/spotify-bayes-replication) · [Post](https://medium.com/@faycal.zouine.usa/bayesian-a-b-tests-still-have-a-peeking-problem-i-checked-spotifys-math-on-real-data-934f47c20ef6)
+- **Airbnb interleaving.** "50x faster" failed my test. The speedup depends on how similar the two rankers are. [Code](https://github.com/ZFayFay/airbnb-interleaving-replication) · [Post](https://medium.com/@faycal.zouine.usa/interleaving-is-50x-faster-than-a-b-testing-sometimes-203b2e68864b)
+- **Meta semantic IDs.** On new items, a plain content embedding beat them. [Code](https://github.com/ZFayFay/meta-semantic-ids-replication) · [Post](https://medium.com/@faycal.zouine.usa/i-tested-metas-semantic-ids-on-movielens-a-plain-content-embedding-beat-them-on-new-items-5e79a4af20d9)
 
 ## At work
 
