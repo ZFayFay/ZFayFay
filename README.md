@@ -28,6 +28,7 @@ Same idea, harder rules. Before running anything I write down what should happen
 - **Spotify on Bayesian A/B tests.** Their math held up, even on a skewed real metric. Novelty effects are where early stopping goes wrong. [Code](https://github.com/ZFayFay/spotify-bayes-replication) · [Post](https://medium.com/@faycal.zouine.usa/bayesian-a-b-tests-still-have-a-peeking-problem-i-checked-spotifys-math-on-real-data-934f47c20ef6)
 - **Airbnb interleaving.** "50x faster" failed my test. The speedup depends on how similar the two rankers are. [Code](https://github.com/ZFayFay/airbnb-interleaving-replication) · [Post](https://medium.com/@faycal.zouine.usa/interleaving-is-50x-faster-than-a-b-testing-sometimes-203b2e68864b)
 - **Meta semantic IDs.** On new items, a plain content embedding beat them. [Code](https://github.com/ZFayFay/meta-semantic-ids-replication) · [Post](https://medium.com/@faycal.zouine.usa/i-tested-metas-semantic-ids-on-movielens-a-plain-content-embedding-beat-them-on-new-items-5e79a4af20d9)
+- **My own A/B testing app.** I tested it the same way. It found a winner in 38% of tests where nothing changed, so I rebuilt it. [Code](https://github.com/ZFayFay/streamlit-experimentation-platform) · [Post](https://medium.com/@faycal.zouine.usa/i-tested-my-own-a-b-testing-app-it-found-a-winner-in-38-of-tests-where-nothing-changed-d4b3a00ac9e6) · [App](https://app-experimentation-platform-p4mcqhkrtw5q3f72yr2wrw.streamlit.app/)
 
 ## At work
 
@@ -41,7 +42,6 @@ Python, SQL, scikit-learn, LightGBM, PyTorch, Meridian, Snowflake, Databricks, S
 
 ## Other things here
 
-- [Experimentation platform](https://github.com/ZFayFay/streamlit-experimentation-platform). An A/B test app: frequentist, Bayesian, CUPED. [Try it](https://app-experimentation-platform-p4mcqhkrtw5q3f72yr2wrw.streamlit.app/).
 - [Kaggle notebooks](https://github.com/ZFayFay/kaggle-notebooks). How coding agents should search a repo. Whether synthetic data helps.
 - [Movie recommenders, old to new](https://github.com/ZFayFay/Are-You-Coming-to-the-Tree-The-Evolution-of-Movie-Recommendation-Systems). Popularity baselines to collaborative filtering.
 - [An LSTM that writes like Washington Irving](https://github.com/ZFayFay/Sequence-models-and-literature). From 2020, before ChatGPT made this boring.
