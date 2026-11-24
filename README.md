@@ -20,6 +20,15 @@ The trick: I simulate on real MovieLens tastes. So I know the right answer, and 
 
 Same lesson three times. The easy number is usually wrong. The useful part is saying by how much.
 
+## Big Tech measurement, rebuilt
+
+Same idea, harder rules. Before running anything I write down what should happen and how I'll judge it, and commit it. Then I report what passed and what didn't.
+
+- **Google GeoX (geo experiments).** On ten years of real Iowa sales, the estimates were right but the error bars were too narrow. [Code](https://github.com/ZFayFay/geox-replication)
+- **Spotify on Bayesian A/B tests.** Their math held up, even on a skewed real metric. Novelty effects are where early stopping goes wrong. [Code](https://github.com/ZFayFay/spotify-bayes-replication)
+- **Airbnb interleaving.** "50x faster" failed my test. The speedup depends on how similar the two rankers are. [Code](https://github.com/ZFayFay/airbnb-interleaving-replication)
+- **Meta semantic IDs.** On new items, a plain content embedding beat them. [Code](https://github.com/ZFayFay/meta-semantic-ids-replication)
+
 ## At work
 
 - Built Adobe Acrobat's media mix model from scratch. It ran in NA, EMEA, Japan, APAC and the UK.
